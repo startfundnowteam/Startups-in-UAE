@@ -32,6 +32,7 @@ If you want to add new startup data or update existing investor contacts:
 3. Commit your changes (`git commit -m 'Add new startup'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request.
+6. https://startfundnow.com/explore-startup
 
 ---
 *Maintained by Start Fund Now Team*
